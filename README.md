@@ -1,5 +1,6 @@
 ### Hi there  i'm Fahri and I'm an Software Developer 👋
 
+I mostly code in ABAP, C# and T-SQL nowadays.
 
 - 🔭 I’m currently working on Penti Çorap - Turkey <br>
 - 🌱 I’m currently learning ABAP, C#, T-SQL ...
