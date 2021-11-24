@@ -1,12 +1,15 @@
 ### Hi there  i'm Fahri and I'm an Software Developer 👋
 
+
+- 🔭 I’m currently working on Penti Çorap - Turkey <br>
+- 🌱 I’m currently learning ABAP, C#, T-SQL...
+- 
 <!--
 **fahridon/fahridon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Penti Çorap <br>
-- 🌱 I’m currently learning ABAP, C#, T-SQL...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
