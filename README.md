@@ -1,9 +1,9 @@
 ### Hi there  i'm Fahri and I'm an Software Developer 👋
 
-I mostly code in ABAP, C# and T-SQL nowadays.
+I mostly code in SAP ABAP nowadays.
 
-- 🔭 I’m currently working on Penti Çorap - Turkey <br>
-- 🌱 I’m currently learning ABAP, C#, T-SQL ...
+- 🔭 I’m currently working on NTT DATA Business Solutions Turkey <br>
+- 🌱 I’m currently learning SAP ABAP, C#, T-SQL ...
 
 
 <!--
